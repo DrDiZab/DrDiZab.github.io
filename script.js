@@ -42,7 +42,7 @@ function text() {
     ctx.font = '20px Marck Script';
     ctx.fillText('В этот день я хочу сказать', 15,110);
     ctx.fillText('Что я не забыл про тебя.', 15, 140);
-    ctx.fillText('Хочу тебя пригласить погулять.', 15,170);
+    ctx.fillText('Хочу пригласить тебя погулять.', 15,170);
     ctx.fillText('Напиши мне, если ты не против', 30, 280);
 }
 function girl() {
